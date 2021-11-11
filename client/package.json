@@ -130,7 +130,7 @@
 		"immutability-helper": "^3.0.1",
 		"immutable": "^3.8.2",
 		"inherits": "^2.0.4",
-		"is-my-json-valid": "^2.20.0",
+		"is-my-json-valid": "^2.20.6",
 		"jest-emotion": "^10.0.27",
 		"jest-fetch-mock": "^2.1.2",
 		"jquery": "^1.12.3",
