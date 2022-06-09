@@ -103,7 +103,7 @@
 		"diff": "^4.0.2",
 		"doctrine": "^3.0.0",
 		"dom-helpers": "^5.1.3",
-		"dompurify": "^2.0.7",
+		"dompurify": "^2.2.3",
 		"draft-js": "^0.11.3",
 		"duplicate-package-checker-webpack-plugin": "^3.0.0",
 		"electron-fetch": "^1.2.1",
