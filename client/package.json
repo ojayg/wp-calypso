@@ -187,7 +187,7 @@
 		"semver": "^7.3.2",
 		"sinon": "^9.0.2",
 		"social-logos": "^2.1.0",
-		"socket.io-client": "^2.3.0",
+		"socket.io-client": "^3.0.0",
 		"store": "^2.0.12",
 		"striptags": "^3.1.1",
 		"superagent": "^3.8.3",
