@@ -183,7 +183,7 @@
 		"redux-thunk": "^2.3.0",
 		"refx": "^3.1.1",
 		"resize-observer-polyfill": "^1.5.1",
-		"rtlcss": "^2.4.0",
+		"rtlcss": "^3.0.0",
 		"semver": "^7.3.2",
 		"sinon": "^9.0.2",
 		"social-logos": "^2.1.0",
