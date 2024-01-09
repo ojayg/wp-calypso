@@ -202,7 +202,7 @@
 		"utility-types": "^3.10.0",
 		"uuid": "^7.0.3",
 		"valid-url": "^1.0.9",
-		"webpack": "^4.42.0",
+		"webpack": "^5.1.1",
 		"webpack-bundle-analyzer": "^3.7.0",
 		"webpack-dev-middleware": "^3.7.2",
 		"webpack-hot-middleware": "^2.25.0",
