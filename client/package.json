@@ -74,7 +74,7 @@
 		"@wordpress/shortcode": "^2.9.0",
 		"@wordpress/url": "^2.17.0",
 		"@wordpress/viewport": "^2.21.3",
-		"archiver": "^3.1.1",
+		"archiver": "^7.0.0",
 		"autosize": "^4.0.2",
 		"body-parser": "^1.19.0",
 		"browser-filesaver": "^1.1.1",
