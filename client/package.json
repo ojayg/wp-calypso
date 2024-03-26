@@ -113,7 +113,7 @@
 		"emotion-theming": "^10.0.27",
 		"enzyme": "^3.11.0",
 		"events": "^3.1.0",
-		"express": "^4.17.1",
+		"express": "^4.19.2",
 		"express-useragent": "^1.0.13",
 		"fast-json-stable-stringify": "^2.1.0",
 		"fake-indexeddb": "^3.1.0",
