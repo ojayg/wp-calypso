@@ -38,9 +38,9 @@
 	"dependencies": {
 		"@automattic/react-i18n": "^1.0.0-alpha.0",
 		"@babel/runtime": "^7.11.1",
-		"@emotion/core": "^10.0.27",
-		"@emotion/styled": "^10.0.27",
-		"@wordpress/i18n": "^3.14.0",
+		"@emotion/core": "^11.0.0",
+		"@emotion/styled": "^11.0.0",
+		"@wordpress/i18n": "^4.0.0",
 		"cache-loader": "^4.1.0",
 		"debug": "^4.1.1",
 		"emotion-theming": "^10.0.27",
