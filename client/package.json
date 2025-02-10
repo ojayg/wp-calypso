@@ -57,7 +57,7 @@
 		"@wordpress/data": "^4.22.3",
 		"@wordpress/data-controls": "^1.16.3",
 		"@wordpress/dom": "^2.13.1",
-		"@wordpress/edit-post": "^3.21.6",
+		"@wordpress/edit-post": "^4.1.9",
 		"@wordpress/editor": "^9.20.6",
 		"@wordpress/element": "^2.16.0",
 		"@wordpress/format-library": "^1.22.6",
