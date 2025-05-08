@@ -24,6 +24,6 @@
 		"5to6-codemod": "^1.8.0",
 		"jscodeshift": "^0.9.0",
 		"lodash": "^4.17.10",
-		"react-codemod": "^5.0.5"
+		"react-codemod": "^5.4.0"
 	}
 }
